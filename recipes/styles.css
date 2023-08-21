@@ -1,3 +1,9 @@
+body {
+    background-color: coral;
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    font-size: 24px;
+}
+
 img {
     height: auto;
     width: 500px;
