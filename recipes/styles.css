@@ -1,5 +1,5 @@
 body {
-    background-color: coral;
+    background-color: rgb(255, 127, 80);
     font-family:Georgia, 'Times New Roman', Times, serif; 
     font-size: 24px;
 }
@@ -7,4 +7,29 @@ body {
 img {
     height: auto;
     width: 500px;
+    margin-right: auto;
+}
+
+.description {
+    border: 5px black;
+    border-style: dotted;
+    width: 600px;
+}
+
+ul li,
+ol li {
+    background-color: rgba(204, 153, 130, 0.63);
+}
+ul,
+ol {
+    border: 2px solid;
+    border-color: rgba(44, 25, 15, 0.63);
+    border-radius: 2rem;
+}
+div {
+    margin: 24px;
+    width: 20rem;
+}
+li {
+    margin: 12px;
 }
